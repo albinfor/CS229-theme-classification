@@ -1,5 +1,5 @@
 # CS229-theme-classification
-Repository for the CS229 project of Rémy Zawislak and Albin Forsberg on texts theme classification using Naive Bayes and Neural Networks
+Repository for the CS229 project of Rémy Zawislak and Albin Forsberg on Theme Classification for texts using Naive Bayes and Neural Networks
 
 NB.py: Naive Bayes implementation
 DNN.py: Dense Neural Network implementation
